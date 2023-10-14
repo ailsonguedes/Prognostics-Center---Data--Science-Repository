@@ -1,0 +1,23 @@
+Roteiro Sugerido para a Resolução
+
+Esse é o roteiro de resolução do desafio que eu sugiro:
+
+    	1. Leia os 3 arquivos em um Jupyter Notebook e renomeia as colunas.
+    
+	2.Defina o tipo desse problema: Regressão, Classificação ou Clusterização.
+    	
+	3. Faça testes Estatísticos procurando por incoerências nos dados.
+
+    	4. Crie novas variáveis para modelar melhor o fenômeno, se necessário.
+    
+	5. Verifique se as variáveis possuem o mesmo peso, em termos de importância, para o modelo.
+    	
+	6. Aplique diferentes algoritmos de Machine Learning.
+    
+	7. Compare os algoritmos sob a mesma métrica de performance, a mais apropriada.
+    	
+	8. Garanta que seu modelo não possui “Overfit”, ou seja, uma memorização ao invés de aprendizado.
+    
+	9. Escreva os valores de previsão do RUL e seu intervalo de confiança para cada motor do arquivo de teste.
+    
+	10. Escreve um breve explicação do raciocínio da sua solução.
