@@ -2,13 +2,13 @@ Roteiro Sugerido para a Resolução
 
 Esse é o roteiro de resolução do desafio que eu sugiro:
 
-    	1. Leia os 3 arquivos em um Jupyter Notebook e renomeia as colunas.
+    1. Leia os 3 arquivos em um Jupyter Notebook e renomeia as colunas. ✔️
     
-	2.Defina o tipo desse problema: Regressão, Classificação ou Clusterização.
+	2. Defina o tipo desse problema: Regressão, Classificação ou Clusterização.
     	
 	3. Faça testes Estatísticos procurando por incoerências nos dados.
 
-    	4. Crie novas variáveis para modelar melhor o fenômeno, se necessário.
+    4. Crie novas variáveis para modelar melhor o fenômeno, se necessário.
     
 	5. Verifique se as variáveis possuem o mesmo peso, em termos de importância, para o modelo.
     	
@@ -21,3 +21,16 @@ Esse é o roteiro de resolução do desafio que eu sugiro:
 	9. Escreva os valores de previsão do RUL e seu intervalo de confiança para cada motor do arquivo de teste.
     
 	10. Escreve um breve explicação do raciocínio da sua solução.
+
+Sua Atividade: 
+
+	- O seu objetivo como Data Scientist é prever o valor do RUL para os 
+	  motores do conjunto de dados de teste “RUL_FD001.txt” e responder à essa pergunta:
+
+	  Pergunta: Quantos ciclos cada motor ainda possui até a falha?
+
+
+Link Úteis
+
+	1: https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/
+	2: https://medium.com/@meigarom/o-projeto-de-machine-learning-para-o-seu-portf%C3%B3lio-ac06bb71ce16
