@@ -4,7 +4,8 @@ Esse é o roteiro de resolução do desafio que eu sugiro:
 
     1. Leia os 3 arquivos em um Jupyter Notebook e renomeia as colunas. ✔️
     
-	2. Defina o tipo desse problema: Regressão, Classificação ou Clusterização.
+	2. Defina o tipo desse problema: Regressão, Classificação ou Clusterização. ✔️
+		Resposta: Regressão Linear
     	
 	3. Faça testes Estatísticos procurando por incoerências nos dados.
 
@@ -34,3 +35,20 @@ Link Úteis
 
 	1: https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/
 	2: https://medium.com/@meigarom/o-projeto-de-machine-learning-para-o-seu-portf%C3%B3lio-ac06bb71ce16
+
+
+Algumas dicas: 
+
+    Regressão: Modelos de regressão são projetados para prever valores numéricos, e eles se ajustam bem a 
+	problemas em que você deseja estimar uma quantidade real, como o tempo até a falha de um motor 
+	(neste caso, o número de ciclos restantes). Algoritmos de regressão, como regressão linear, 
+	regressão polinomial, árvores de decisão de regressão, redes neurais, entre outros, podem ser usados 
+	para realizar essa tarefa.
+
+    Classificação: A classificação é usada quando o objetivo é prever a categoria à qual um ponto de 
+	dados pertence. Por exemplo, prever se um motor irá falhar ou não em um determinado período de tempo. 
+	Portanto, classificação não é apropriada se você deseja quantificar o número exato de ciclos restantes.
+
+    Clusterização: A clusterização é usada para agrupar pontos de dados em grupos com base em similaridades. 
+	Ela não é usada para prever valores numéricos, mas para agrupar dados semelhantes. 
+	Portanto, não é adequada para prever o número de ciclos restantes.
